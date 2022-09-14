@@ -18,8 +18,8 @@
     "branch"     : "twelve"
   },
   {
-    "repository" : "kernel_xiaomi_sdm439",
-    "target_path": "kernel/xiaomi/sdm439",
+    "repository" : "kernel_xiaomi_mi439",
+    "target_path": "kernel/xiaomi/mi439",
     "remote"     : "pixel-devices",
     "branch"     : "twelve"
   }
